@@ -23,7 +23,7 @@ button {
     margin: 25px;
     border-radius: 25px;
     max-width: 350px;
-    border-radius: 18;
+    border-radius: 10;
     border: 5px solid rgb(70, 70, 70)
 }
 
@@ -56,5 +56,9 @@ h3:hover{
 }
 
 p:hover{
-    color: rgb(0, 174, 218);
+    color: rgb(0, 0, 0);
+}
+
+#Um:hover{
+    color: rgb(255, 255, 255);
 }
