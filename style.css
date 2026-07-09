@@ -1,6 +1,6 @@
 body {
     background-color: rgb(0, 0, 26);
-    color: rgb(177, 255, 248);
+    color: rgb(213, 255, 251);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -14,11 +14,11 @@ body {
 
 hr{
     width: 100%;
-    color: rgb(189, 255, 228)
+    color: rgb(185, 255, 226)
 }
 
 button {
-    background-color: #59ff17;
+    background-color: #74f740;
     padding: 25px 35px;
     margin: 15px;
     border-radius: 15px;
