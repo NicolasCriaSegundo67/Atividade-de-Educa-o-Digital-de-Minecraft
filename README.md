@@ -1,4 +1,3 @@
-```markdown
 # ⛏️ Minecraft, O Jogo
 
 Uma página web simples e interativa criada para homenagear o universo de **Minecraft**. O projeto apresenta um breve histórico sobre a trajetória do jogo, destaca algumas das principais atualizações que marcaram a comunidade e conta com um sistema interativo de curtidas.
