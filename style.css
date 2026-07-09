@@ -23,11 +23,13 @@ button {
     margin: 25px;
     border-radius: 25px;
     max-width: 350px;
+    border-radius: 18;
+    border: 5px solid rgb(70, 70, 70)
 }
 
 span {
     font-size:20px;
-    color: rgb(80, 55, 0);
+    color: rgb(63, 63, 63);
 }
 
 div {
@@ -36,4 +38,23 @@ div {
      align-items: center;
     justify-content: center;
 
+}
+
+h1:hover{
+    color: rgb(35, 209, 0);
+}
+
+img{
+
+    border: 5px solid rgb(114, 234, 255);
+    border-radius: 18;
+    margin-bottom: 10px;
+}
+
+h3:hover{
+    color: rgb(0, 113, 219);
+}
+
+p:hover{
+    color: rgb(0, 174, 218);
 }
