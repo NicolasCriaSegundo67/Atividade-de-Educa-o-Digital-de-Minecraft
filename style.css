@@ -40,9 +40,15 @@ div {
 
 }
 
-h1:hover{
-    color: rgb(35, 209, 0);
+
+#titulo { color: rgb(60, 255, 0); }
+
+#titulo:hover{
+    color: rgb(121, 255, 94);
 }
+
+
+
 
 img{
 
@@ -51,9 +57,11 @@ img{
     margin-bottom: 10px;
 }
 
-h3:hover{
-    color: rgb(0, 113, 219);
+#sub:hover{
+    color: rgb(129, 194, 255);
 }
+
+#sub { color: rgb(0, 110, 255); }
 
 #Um:hover{
     color: rgb(133, 255, 96);
@@ -61,4 +69,20 @@ h3:hover{
 
 #Dois:hover{
     color: rgb(175, 113, 55);
+}
+
+#Lista3:hover{
+    color: rgb(163, 79, 0);
+}
+
+#caves:hover{
+    color: rgb(190, 190, 190);
+}
+
+#villa:hover{
+    color: rgb(255, 251, 0);
+}
+
+#red:hover{
+    color: rgb(255, 42, 42);
 }
