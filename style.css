@@ -18,11 +18,11 @@ hr{
 }
 
 button {
-    background-color: #74f740;
-    padding: 25px 35px;
-    margin: 15px;
-    border-radius: 15px;
-    max-width: 250px;
+    background-color: #9c9c9c;
+    padding: 20px 67px;
+    margin: 25px;
+    border-radius: 25px;
+    max-width: 350px;
 }
 
 span {
