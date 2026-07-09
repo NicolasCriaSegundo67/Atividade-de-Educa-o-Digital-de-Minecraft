@@ -27,6 +27,8 @@ button {
     border: 5px solid rgb(70, 70, 70)
 }
 
+
+
 span {
     font-size:20px;
     color: rgb(63, 63, 63);
@@ -68,11 +70,11 @@ img{
 }
 
 #Dois:hover{
-    color: rgb(175, 113, 55);
+    color: rgb(235, 167, 103);
 }
 
 #Lista3:hover{
-    color: rgb(163, 79, 0);
+    color: rgb(212, 116, 26);
 }
 
 #caves:hover{
