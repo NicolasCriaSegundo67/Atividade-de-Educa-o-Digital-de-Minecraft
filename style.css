@@ -55,10 +55,10 @@ h3:hover{
     color: rgb(0, 113, 219);
 }
 
-p:hover{
-    color: rgb(0, 0, 0);
+#Um:hover{
+    color: rgb(133, 255, 96);
 }
 
-#Um:hover{
-    color: rgb(255, 255, 255);
+#Dois:hover{
+    color: rgb(175, 113, 55);
 }
